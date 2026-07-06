@@ -9,12 +9,11 @@
 | 项目 | 是什么 |
 |---|---|
 | [cyxj-hyperframes](https://github.com/chenyuxiaojin/cyxj-hyperframes) | HTML + GSAP 视频工程与工具包，配合 Claude Code 做教程视频 |
-| [cyxj-remotion-starter](https://github.com/chenyuxiaojin/cyxj-remotion-starter) | 用 Claude Code 指挥 Remotion 出视频的工作台脚手架：三层架构 + hooks + skills |
 | [xiaochen-skills](https://github.com/chenyuxiaojin/xiaochen-skills) | 14 个 Claude Code skills 的插件市场仓库：达芬奇字幕、公众号排版、Obsidian 知识管理等 |
-| [video-agent-skills](https://github.com/chenyuxiaojin/video-agent-skills) | 多 agent Claude Code skills：从选题一路做到达芬奇 / 剪映时间线 |
+| [cyxj-remotion-starter](https://github.com/chenyuxiaojin/cyxj-remotion-starter) | 用 Claude Code 指挥 Remotion 出视频的工作台脚手架：三层架构 + hooks + skills |
 | [DropKit](https://github.com/chenyuxiaojin/DropKit) | Swift 写的 macOS 菜单栏工具：摇一摇呼出文件架 + 剪贴板历史 |
 | [cyxj-groksearch](https://github.com/chenyuxiaojin/cyxj-groksearch) | 给 Claude Code 用的 MCP server：Grok 搜索 + Tavily 抓取 + Firecrawl 截图，多 key 容灾 |
-| [obsidian-llm-translate](https://github.com/chenyuxiaojin/obsidian-llm-translate) | Obsidian [官方社区插件目录](https://community.obsidian.md/plugins/llm-translate)在架，112 次安装 |
+| 其他 | [video-agent-skills](https://github.com/chenyuxiaojin/video-agent-skills)（多 agent 视频管线）、[obsidian-llm-translate](https://github.com/chenyuxiaojin/obsidian-llm-translate)（Obsidian [官方目录](https://community.obsidian.md/plugins/llm-translate)在架，112 次安装） |
 
 ## 只教真实的
 
