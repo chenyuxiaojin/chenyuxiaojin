@@ -13,6 +13,7 @@
 | [cyxj-remotion-starter](https://github.com/chenyuxiaojin/cyxj-remotion-starter) | 用 Claude Code 指挥 Remotion 出视频的工作台脚手架：三层架构 + hooks + skills |
 | [DropKit](https://github.com/chenyuxiaojin/DropKit) | Swift 写的 macOS 菜单栏工具：摇一摇呼出文件架 + 剪贴板历史 |
 | [cyxj-groksearch](https://github.com/chenyuxiaojin/cyxj-groksearch) | 给 Claude Code 用的 MCP server：Grok 搜索 + Tavily 抓取 + Firecrawl 截图，多 key 容灾 |
+| [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)（上游贡献） | 用 AI 控制 DaVinci Resolve 的 MCP server，我天天在用，顺手把改进送回上游——两个 PR 已进主线：[#81](https://github.com/samuelgursky/davinci-resolve-mcp/pull/81) 输出去重、[#80](https://github.com/samuelgursky/davinci-resolve-mcp/pull/80) API 语义补记 + 回归测试 |
 | 其他 | [video-agent-skills](https://github.com/chenyuxiaojin/video-agent-skills)（多 agent 视频管线）、[obsidian-llm-translate](https://github.com/chenyuxiaojin/obsidian-llm-translate)（Obsidian [官方目录](https://community.obsidian.md/plugins/llm-translate)在架，112 次安装） |
 
 ## 只教真实的
@@ -29,7 +30,9 @@
 ## 在哪找到我
 
 - 博客：[blog.xiaochens.com](https://blog.xiaochens.com)
-- 抖音 / 视频号 / B站 / 小红书 / YouTube / 公众号，账号都叫「陈与小金」
+- YouTube：[@cyxj_ai](https://www.youtube.com/@cyxj_ai)｜B站：[陈与小金](https://space.bilibili.com/505358756)｜抖音：[陈与小金](https://v.douyin.com/A1qVQrOgPjY/)
+- X：[@cyxjya](https://x.com/cyxjya)
+- 视频号 / 小红书 / 公众号，账号都叫「陈与小金」
 
 ---
 
