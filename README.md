@@ -1,38 +1,46 @@
 # 陈与小金
 
-**AI 工作流，AI 剪辑，AI 自动化** —— 用 Claude Code 把 AI 装进真实业务。
+**FDE，AI 落地** —— 用 Claude Code、Codex 和自动化工具，把 AI 接入内容创作、视频生产与真实业务工作流。
 
-用点好用的，玩点好玩的。
+能力方向：`Agent Skills` · `MCP Server` · `AI 工作流` · `AI 视频` · `macOS / SwiftUI` · `Obsidian 插件`
+
+## 数据速览
+
+> 截至 2026-07-20：11 个公开仓库 · 39 Stars · 17 个 Claude Code 插件 / 19 个技能 · 1 个 Mac App Store 应用 · 1 个 Obsidian 官方社区插件
 
 ## 在跑的东西
 
 | 项目 | 是什么 |
 |---|---|
-| [cyxj-hyperframes](https://github.com/chenyuxiaojin/cyxj-hyperframes) | HTML + GSAP 视频工程与工具包，配合 Claude Code 做教程视频 |
-| [xiaochen-skills](https://github.com/chenyuxiaojin/xiaochen-skills) | 14 个 Claude Code skills 的插件市场仓库：达芬奇字幕、公众号排版、Obsidian 知识管理等 |
+| [xiaochen-skills](https://github.com/chenyuxiaojin/xiaochen-skills) | 17 个插件、19 个技能的 Claude Code 插件市场：视频生产、内容发布、Obsidian 知识管理和 GEO 等真实工作流 |
+| [cyxj-groksearch](https://github.com/chenyuxiaojin/cyxj-groksearch) | 给 Claude Code 使用的 MCP Server：Grok 搜索 + Tavily 抓取 + Firecrawl 截图，多 Key 故障转移 |
+| [DropKit](https://github.com/chenyuxiaojin/DropKit) | SwiftUI 编写的 macOS 文件架与剪贴板工具，已上架 [Mac App Store](https://apps.apple.com/app/dropkit-clipboard/id6778846792) |
+| [cyxj-hyperframes](https://github.com/chenyuxiaojin/cyxj-hyperframes) | HTML + GSAP 视频工程与工具包，配合 Claude Code 制作教程视频 |
 | [cyxj-remotion-starter](https://github.com/chenyuxiaojin/cyxj-remotion-starter) | 用 Claude Code 指挥 Remotion 出视频的工作台脚手架：三层架构 + hooks + skills |
-| [DropKit](https://github.com/chenyuxiaojin/DropKit) | Swift 写的 macOS 菜单栏工具：摇一摇呼出文件架 + 剪贴板历史 |
-| [cyxj-groksearch](https://github.com/chenyuxiaojin/cyxj-groksearch) | 给 Claude Code 用的 MCP server：Grok 搜索 + Tavily 抓取 + Firecrawl 截图，多 key 容灾 |
-| [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)| 用 AI 控制 DaVinci Resolve 的 MCP server，
-| 其他 | [video-agent-skills](https://github.com/chenyuxiaojin/video-agent-skills)（多 agent 视频管线）、[obsidian-llm-translate](https://github.com/chenyuxiaojin/obsidian-llm-translate)（Obsidian [官方目录](https://community.obsidian.md/plugins/llm-translate)在架） |
+| [video-agent-skills](https://github.com/chenyuxiaojin/video-agent-skills) | 从调研、脚本、分镜到时间线交付的多 Agent 视频生产技能集合 |
+| [obsidian-llm-translate](https://github.com/chenyuxiaojin/obsidian-llm-translate) | 已上架 [Obsidian 官方社区插件目录](https://community.obsidian.md/plugins/llm-translate) 的多模型翻译插件 |
+
+完整项目清单和中文说明：[blog.xiaochens.com/projects](https://blog.xiaochens.com/projects/)
+
+## 开源协作
+
+我为 [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 提交过 4 个可复现的缺陷报告并被修复，其中 3 处修复以 co-author 署名进入提交。项目在 [v2.52.0](https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.52.0) 和 [v2.60.0](https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.60.0) release note 中公开致谢。
+
+我是 [Vibe Motion](https://github.com/vibe-motion) GitHub 组织成员，关注 prompts → code → motion graphics 的实践。
 
 ## 只教真实的
 
-上面每个仓库都先服务我自己的工作流，跑顺了才拿出来。内容也一样：视频和文章全部来自真实在跑的东西。
+上面这些项目都先服务我自己的工作流，跑顺了才整理出来。内容也一样：教学和实操来自真实使用，事件科普尽量回到一手资料和可验证证据。
 
-视频的方向：
+## 在哪里找到我
 
-- Claude Code 教学与实操
-- AI 圈事件科普
-- 用 AI 做视频特效
-- AI 效率提升
-
-## 在哪找到我
-
-- 博客：[blog.xiaochens.com](https://blog.xiaochens.com)
-- YouTube：[@cyxj_ai](https://www.youtube.com/@cyxj_ai)｜B站：[陈与小金](https://space.bilibili.com/505358756)｜抖音：[陈与小金](https://v.douyin.com/A1qVQrOgPjY/)
+- 个人网站：[xiaochens.com](https://xiaochens.com/)
+- 博客：[blog.xiaochens.com](https://blog.xiaochens.com/)
+- YouTube：[@cyxj_ai](https://www.youtube.com/@cyxj_ai)
+- B站：[陈与小金](https://space.bilibili.com/505358756)
+- 抖音：[陈与小金](https://v.douyin.com/A1qVQrOgPjY/)
 - X：[@cyxjya](https://x.com/cyxjya)
-- 视频号 / 小红书 / 公众号，账号都叫「陈与小金」
+- 视频号、公众号和小红书：搜索“陈与小金”
 
 ---
 
