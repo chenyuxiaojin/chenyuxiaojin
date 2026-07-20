@@ -17,7 +17,7 @@
 | [DropKit](https://github.com/chenyuxiaojin/DropKit) | SwiftUI 编写的 macOS 文件架与剪贴板工具，已上架 [Mac App Store](https://apps.apple.com/app/dropkit-clipboard/id6778846792) |
 | [cyxj-hyperframes](https://github.com/chenyuxiaojin/cyxj-hyperframes) | HTML + GSAP 视频工程与工具包，配合 Claude Code 制作教程视频 |
 | [cyxj-remotion-starter](https://github.com/chenyuxiaojin/cyxj-remotion-starter) | 用 Claude Code 指挥 Remotion 出视频的工作台脚手架：三层架构 + hooks + skills |
-| [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp)（第三方项目） | DaVinci Resolve 的 MCP Server；我提交的 4 个缺陷报告均被修复，其中 3 处修复以 co-author 署名进入提交 |
+| [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) | DaVinci Resolve 的 MCP Server；达芬奇 MCP，agent 剪辑
 | [video-agent-skills](https://github.com/chenyuxiaojin/video-agent-skills) | 从调研、脚本、分镜到时间线交付的多 Agent 视频生产技能集合 |
 | [obsidian-llm-translate](https://github.com/chenyuxiaojin/obsidian-llm-translate) | 已上架 [Obsidian 官方社区插件目录](https://community.obsidian.md/plugins/llm-translate) 的多模型翻译插件 |
 
