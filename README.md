@@ -1,6 +1,6 @@
 # 陈与小金
 
-**FDE，AI 落地** —— 用 Claude Code、Codex 和自动化工具，把 AI 接入内容创作、视频生产与真实业务工作流。
+**AI 落地** —— 用 Claude Code、Codex 和自动化工具，把 AI 接入内容创作、视频生产与真实业务工作流。
 
 能力方向：`Agent Skills` · `MCP Server` · `AI 工作流` · `AI 视频` · `macOS / SwiftUI` · `Obsidian 插件`
 
