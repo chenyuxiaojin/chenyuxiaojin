@@ -25,9 +25,7 @@
 
 ## 开源协作
 
-我为 [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 提交过 4 个可复现的缺陷报告并被修复，其中 3 处修复以 co-author 署名进入提交。项目在 [v2.52.0](https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.52.0) 和 [v2.60.0](https://github.com/samuelgursky/davinci-resolve-mcp/releases/tag/v2.60.0) release note 中公开致谢。
-
-我是 [Vibe Motion](https://github.com/vibe-motion) GitHub 组织成员，关注 prompts → code → motion graphics 的实践。
+ [Vibe Motion](https://github.com/vibe-motion) GitHub 组织成员，关注 prompts → code → motion graphics 的实践。
 
 ## 只教真实的
 
