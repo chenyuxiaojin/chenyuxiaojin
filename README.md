@@ -41,6 +41,16 @@
 - X：[@cyxjya](https://x.com/cyxjya)
 - 视频号、公众号和小红书：搜索“陈与小金”
 
+## 加入微信群
+
+想一起聊 AI 工具、内容创作、视频生产和真实工作流，可以扫码进群。
+
+<p align="center">
+  <img src="./assets/wechat-group-qr.png" alt="陈与小金微信群二维码" width="360" />
+</p>
+
+<p align="center"><sub>群二维码会定期更新；如已失效，请通过公众号「陈与小金」联系。</sub></p>
+
 ---
 
 持续变强，不断进步。
