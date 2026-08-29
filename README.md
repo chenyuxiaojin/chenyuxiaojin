@@ -6,18 +6,18 @@
 
 ## 数据速览
 
-> 截至 2026-07-20：11 个公开仓库 · 39 Stars · 17 个 Claude Code 插件 / 19 个技能 · 1 个 Mac App Store 应用 · 1 个 Obsidian 官方社区插件
+> 公开仓库与 Star 实时数据见 [仓库列表](https://github.com/chenyuxiaojin?tab=repositories) · 1 个 Mac App Store 应用 · 1 个 Obsidian 官方社区插件
 
 ## 在跑的东西
 
 | 项目 | 是什么 |
 |---|---|
-| [xiaochen-skills](https://github.com/chenyuxiaojin/xiaochen-skills) | 17 个插件、19 个技能的 Claude Code 插件市场：视频生产、内容发布、Obsidian 知识管理和 GEO 等真实工作流 |
+| [xiaochen-skills](https://github.com/chenyuxiaojin/xiaochen-skills) | Claude Code 插件市场：视频生产、内容发布、Obsidian 知识管理和 GEO 等真实工作流（插件数量以仓库为准） |
 | [cyxj-groksearch](https://github.com/chenyuxiaojin/cyxj-groksearch) | 给 Claude Code 使用的 MCP Server：Grok 搜索 + Tavily 抓取 + Firecrawl 截图，多 Key 故障转移 |
 | [DropKit](https://github.com/chenyuxiaojin/DropKit) | SwiftUI 编写的 macOS 文件架与剪贴板工具，已上架 [Mac App Store](https://apps.apple.com/app/dropkit-clipboard/id6778846792) |
 | [cyxj-hyperframes](https://github.com/chenyuxiaojin/cyxj-hyperframes) | HTML + GSAP 视频工程与工具包，配合 Claude Code 制作教程视频 |
 | [cyxj-remotion-starter](https://github.com/chenyuxiaojin/cyxj-remotion-starter) | 用 Claude Code 指挥 Remotion 出视频的工作台脚手架：三层架构 + hooks + skills |
-| [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) | DaVinci Resolve 的 MCP Server；达芬奇 MCP，agent 剪辑
+| [davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) | DaVinci Resolve 的 MCP Server（上游 samuelgursky 项目，我以贡献者身份提交缺陷报告与修复）；达芬奇 agent 剪辑 |
 | [video-agent-skills](https://github.com/chenyuxiaojin/video-agent-skills) | 从调研、脚本、分镜到时间线交付的多 Agent 视频生产技能集合 |
 | [obsidian-llm-translate](https://github.com/chenyuxiaojin/obsidian-llm-translate) | 已上架 [Obsidian 官方社区插件目录](https://community.obsidian.md/plugins/llm-translate) 的多模型翻译插件 |
 
