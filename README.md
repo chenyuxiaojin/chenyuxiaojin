@@ -47,7 +47,7 @@
 想一起聊 AI 工具、内容创作、视频生产和真实工作流，可以扫码进群。
 
 <p align="center">
-  <img src="./assets/wechat-group-qr.png" alt="陈与小金微信群二维码" width="360" />
+  <img src="https://github.com/chenyuxiaojin/chenyuxiaojin/raw/8b5d327135b3a15a78e9217b7b6a08357b25cf22/assets/wechat-group-qr.png" alt="陈与小金微信群二维码" width="360" />
 </p>
 
 <p align="center"><sub>群二维码会定期更新；如已失效，请通过公众号「陈与小金」联系。</sub></p>
