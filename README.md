@@ -15,6 +15,7 @@
 | [xiaochen-skills](https://github.com/chenyuxiaojin/xiaochen-skills) | Claude Code 插件市场：视频生产、内容发布、Obsidian 知识管理和 GEO 等真实工作流（插件数量以仓库为准） |
 | [cyxj-groksearch](https://github.com/chenyuxiaojin/cyxj-groksearch) | 给 Claude Code 使用的 MCP Server：Grok 搜索 + Tavily 抓取 + Firecrawl 截图，多 Key 故障转移 |
 | [DropKit](https://github.com/chenyuxiaojin/DropKit) | SwiftUI 编写的 macOS 文件架与剪贴板工具，已上架 [Mac App Store](https://apps.apple.com/app/dropkit-clipboard/id6778846792) |
+| [WaterBreak](https://github.com/chenyuxiaojin/waterbreak) | 陈与小金制作的 macOS 喝水与站立提醒：屏幕亮起解锁后每 20 分钟全屏提醒，支持 Apple Silicon 下载和源码构建 |
 | [cyxj-hyperframes](https://github.com/chenyuxiaojin/cyxj-hyperframes) | HTML + GSAP 视频工程与工具包，配合 Claude Code 制作教程视频 |
 | [cyxj-remotion-starter](https://github.com/chenyuxiaojin/cyxj-remotion-starter) | 用 Claude Code 指挥 Remotion 出视频的工作台脚手架：三层架构 + hooks + skills |
 | [cyxj-videos](https://github.com/chenyuxiaojin/cyxj-videos) | 用 Claude Code 做视频：每期怎么做的都放在这，用的模型、提示词、花了多少钱（[网页版](https://chenyuxiaojin.github.io/cyxj-videos/)） |
